@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'jwtlogin',
     'rest_framework',
     'corsheaders',
+    'drf_yasg',
 ]
 
 MIDDLEWARE = [
